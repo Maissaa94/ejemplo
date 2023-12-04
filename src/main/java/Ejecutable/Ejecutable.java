@@ -85,6 +85,7 @@ public class Ejecutable {
                                mostrarCursos(cursos);
                                 System.out.println("1.Visualizar otro estudiante        0.salir");
                                 opcion1 = sc.nextInt();
+                                System.out.println("ahora estoy con git");
                             }
                             break;
                         case 6:
